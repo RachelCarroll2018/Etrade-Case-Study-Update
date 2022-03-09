@@ -75,8 +75,12 @@ What are some of the core metrics that companies in this domain use to measure s
 6) Rate of Return
 
 * Etrade had a 22%+ growth from 2016 to 2018 increasing their revenue from $1.42B to $2.87B but plateaued in 2019 to a small increase of only .45% and then -.59% in 2020. Etrade was purchased by Morgan Stanley in 2020 so it makes sense that revenue slowed down due to such a large change and potential increase in expenses. 
+* 
 * Etrade had a large dip in May - July 2019 losing almost 400,000 users but that was short lived as they jumped back up to 700,00+ users in September 2019 and have trended mostly positive. The last update was in July 2021 when they had 1.01 million users. 
+* 
 * I find it pretty interesting that given such a large increase in investment users, specifically Millenials and Gen Z'ers, that they didn't see a sharper increase in users. I suppose they all went to Robinhood instead!
+
+(Images also attached in repository)
 
 ![2018 - 2021](@attachment/Clipboard_2022-03-08-17-36-57.png)
 
