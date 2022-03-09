@@ -82,14 +82,14 @@ What are some of the core metrics that companies in this domain use to measure s
 
 (Images also attached in repository)
 
-![2018 - 2021](@attachment/Clipboard_2022-03-08-17-36-57.png)
+![2018 - 2021](https://github.com/RachelCarroll2018/Etrade-Case-Study-Update/blob/main/Etrade%201.png)
 
 
  How is your company performing relative to competitors in the same domain?
 
  * This small sample size shows them performing in range or better than the companies listed below. However, Robinhood as completely disrupted and changed the market for robo advising, specifically for the younger generation and it's argued their app is easier to navigate through. I think as a result of social media and verbal recommendations, a lot of newer users gravitate towards robinhood.
 
- ![](@attachment/Clipboard_2022-03-08-17-41-45.png)
+ ![Multiple companies](https://github.com/RachelCarroll2018/Etrade-Case-Study-Update/blob/main/Etrade%202.png)
 
 
 ## Recommendations
@@ -99,7 +99,7 @@ If you were to advise the company, what products or services would you suggest t
 
 Why do you think that offering this product or service would benefit the company?
 * Cryptocurrency overall has grown 187.5% in 2021, so it's a powerful way to introduce new financial pathways to the company.
-![](@attachment/Clipboard_2022-03-08-17-58-11.png)
+![Crypto Growth](https://github.com/RachelCarroll2018/Etrade-Case-Study-Update/blob/main/Etrade%203.png)
 * Tiktok and Social Media platforms are the norm nowadays for larger companies, there are brands like Duolingo, who has amassed a 3.3 million user following, Chipotle has 1.7 million followers, etc. Social media strategists have found a way to connect with users that's actually funny and can be informative as well. 
 
 What technologies would this additional product or service utilize?
