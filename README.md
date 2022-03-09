@@ -107,6 +107,7 @@ Why are these technologies appropriate for your solution?
 * Increasing marketing and social media presence can also increase users, downloads, searches, and more. Peopel are becoming more and more focused on atypical job roles and wanted to have passive income. The hashtags #entrepreneur has 12.8 billion views, #sidehustle has 6.8 billion views, etc.
 
 Sources:
+
 [Crunchbase](
 https://www.crunchbase.com/organization/e-trade)
 
