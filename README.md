@@ -109,12 +109,20 @@ Why are these technologies appropriate for your solution?
 Sources:
 [Crunchbase](
 https://www.crunchbase.com/organization/e-trade)
+
 [Investopedia](https://www.investopedia.com/robinhood-vs-e-trade-4587955)
+
 [E*Trade](https://us.etrade.com/what-we-offer/investment-choices/cryptocurrency)
+
 [Stackshare](https://stackshare.io/)
+
 [Quora](https://www.quora.com/What-programming-languages-are-used-at-ETrade#:~:text=Primarily%20being%20java%20and%20c,php%20for%20some%20internal%20tools.&text=Most%20of%20the%20company%20is,framework%20for%20IT%20infrastructure%20management.)
+
 [Investopedia Addtl](https://www.investopedia.com/e-trade-review-4587893)
+
 [Nerd Wallet](https://www.nerdwallet.com/best/investing/robo-advisors)
+
 [Market Breakdown of Users](https://www.cnbc.com/2020/02/20/morgan-stanley-reportedly-to-buy-e-trade-for-13-billion.html)
+
 [Netguru](https://www.netguru.com/blog/success-in-the-fintech-world)
 
